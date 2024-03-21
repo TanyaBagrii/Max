@@ -1,0 +1,104 @@
+body {
+    font-family: sans-serif;
+    background-color: #FDFDFD;
+}
+
+header{
+    background-color: #A31818;
+    height: 120px;
+    
+}
+    
+.touareg{
+    background-color: #0C0096;
+    width: 450px;
+    height: 120px;
+    margin-top: 150px;
+    color: white;
+    text-align: center
+}
+img{
+    width: 400px;
+    height: 200px;
+    margin-left: 50px;
+}
+.posil{
+    margin-top: 270px;
+    width: 300px;
+    height: 250px;
+    margin-left: 100px;
+}
+.posilana{
+    font-size:15px;
+    margin-right: 550px;
+    margin-top: 25px;
+    margin-left: 100px;
+}
+.posilana:hover{
+    font-size: 20px;
+    transition: 0.5s ease-in;
+}
+.kartnina{
+    margin-left: 650px;
+    margin-right: 50px;
+    border-radius: 25px;
+}
+.folt{
+    margin-left: 550px;
+    margin-right: 80px;
+}
+.folt:hover{
+    font-size: 20px;
+    transition: 0.5s ease-in;
+}
+.gradient {
+    background-image: linear-gradient(violet,blue);  
+    height: 100px;
+}
+.two {
+    font-family: sans-serif;
+    background-color: darkgrey;
+}
+
+.strelka{
+    width: 140px;
+    text-align: center;
+    height: 150px;
+    margin-left: 500px;
+
+}
+.strelka:hover{
+    width: 170px;
+    height: 180px;
+    transition: 0.5s ease-in;
+}
+
+
+.three {
+    font-family: sans-serif;
+    background-color: darkgrey;
+}
+
+.widio{
+    margin-left: 450px;
+    margin-top: 50px;
+    
+    
+}
+.bmw{
+   margin-left: 500px;
+    margin-top: 50px;
+
+}
+.logi{
+    height: 70px;
+    width: 70px;
+
+
+}
+.tt{
+    display: inline-flex;
+}
+   
+
+
